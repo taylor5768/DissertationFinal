@@ -1,0 +1,118 @@
+.slider {
+  /* default is width 400 and margin 10 */
+	width: 400;
+	margin: 10px;
+}
+
+.demo_slider {
+  /* default is width 400 and margin 10 */
+	width: 400;
+	margin: 10px;
+}
+
+
+.demo_slider_table {
+	margin-left: 20px;
+}
+
+
+.slider_table {
+	margin: auto auto;
+}
+
+.block3words{
+	margin-left: 400px;
+}
+
+
+.highlight_numbers {
+	font-size: 28;
+	font-weight: bold;
+}
+
+.speakerProfile{
+float:  left;
+bottom: 400;
+right: 1400;
+
+}
+
+
+
+img {
+width: 400px;
+position:  fixed;
+}
+
+.slider_tableSE{
+float:  left;
+text-align: left;
+margin-left:  600px;
+}
+
+.slider_tableSpBelief{
+float:  right;
+/*margin-left:  900px;*/
+
+}
+
+.slider_tableSE .rightSE {
+	display: inline;
+	text-align: left;
+	float: left;
+	height:40px;
+}
+
+.slider_tableSE .leftSE {
+	display: inline;
+	text-align: left;
+	float: left;
+	height:40px;
+}
+
+
+.slider_tableSE .leftSpBelief {
+	display: inline;
+	text-align: left;
+	float: left;
+	height:60px;
+}
+
+.slider_tableSE .rightSpBelief {
+	display: inline;
+	text-align: left;
+	float: left;
+	height:60px;
+}
+
+button {
+	background: url(button-gradient.png);
+	border: 1px solid #999;
+	border-top: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	margin: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 29px;
+	min-width: 70px;
+}
+
+.demoSlide {
+	text-align: left;
+	width: 60%;
+	height: 90%;
+	display: none;
+	position: absolute;
+	margin: 0.5%;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 1% 2% 1% 2%;
+	font-size: 20px;
+}
+
+.subj_info_title {
+	color:#036;
+	background:transparent;
+	font-size:25;
+	font-weight:bold;
+}
