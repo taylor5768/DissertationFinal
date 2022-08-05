@@ -1,5 +1,4 @@
-# DissertationFinal
-data, analysis scripts, and stimuli for my dissertation experiments
+# data, analysis scripts, and stimuli for my dissertation experiments
 
 
 **/JS_experiments:** contains code for experiment websites
@@ -24,3 +23,5 @@ There is an additional directory for meta-analyses comparing the results of the 
 There are also two scripts that are used by the analysis.R scripts:
 * **helpers.R**: helper function for bootstrapping 95% CI, from Judith Degen. 
 * **model_to_RTF.R**: takes a model object and converts it to RTF (which I ended up having to convert to jpg manually), adapted from Martha Austen.
+
+**MainExperimentStimuli.csv:** spreadsheet with the stimuli used in the 3 main experiments. 
