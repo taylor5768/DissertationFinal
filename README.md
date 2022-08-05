@@ -2,10 +2,13 @@
 data, analysis scripts, and stimuli for my dissertation experiments
 
 
-/JS_experiments: contains code for experiment websites
+/JS_experiments: 
+
+contains code for experiment websites
 
 
 /results: 
+
 Within /results, there is a separate subdirectory for each experiment: /Exp1, /Exp2, and /Exp3 for the three main experiments, /NormingCCs for the CC selection study, and /NormingPlaces for the selection study conducted to select the profiles and localities.  The subdirectories for the 3 main experiments contain the four directories listed below.  /NormingCCs and /NormingPlaces do not contain the /models subdirectory. 
 
 * /data
