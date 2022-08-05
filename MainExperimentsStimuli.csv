@@ -1,0 +1,51 @@
+Political/Neutral,Type,Topic,Context,Target,,Orientation
+Political,CC,abortion,I was talking to Grace when I saw her at Friday's meeting. Do you guys remember Grace?,X doesn't/isnt VERB that,it's too hard to get an abortion,R
+Political,CC,abortion,I was talking to Grace when I saw her at Friday's meeting. Do you guys remember Grace?,X doesn't/isnt VERB that,it's too easy to get an abortion,L
+Political,CC,medicaid,I was speaking to Allison online yesterday.  Have you guys met Allison?,X doesn't/isnt VERB that,medicaid is underfunded,L
+Political,CC,medicaid,I was speaking to Allison online yesterday.  Have you guys met Allison?,X doesn't/isnt VERB that,medicaid is overfunded,R
+Political,CC,minimum wage,I met Ken during the break at last week's meeting. Do you guys know Ken?,X doesn't/isnt VERB that,the minimum wage is too low,L
+Political,CC,minimum wage,I met Ken during the break at last week's meeting. Do you guys know Ken?,X doesn't/isnt VERB that,the minimum wage is too high,R
+Political,CC,2020_election,I noticed Jen was at the meeting on Friday.  What do you guys think of Jen?,X doesn't/isnt VERB that,the 2020 election was legitimate,R
+Political,CC,2020_election,I noticed Jen was at the meeting on Friday.  What do you guys think of Jen?,X doesn't/isnt VERB that,the 2020 election was rigged,L
+Political,CC,COVID,Mary will be sending out the meeting notes today. Do you guys remember Mary?,X doesn't/isnt VERB that,COVID is a dangerous virus,L
+Political,CC,COVID,Mary will be sending out the meeting notes today. Do you guys remember Mary?,X doesn't/isnt VERB that,COVID is an overhyped virus,R
+Political,CC,gun_laws,Owen is one of the men speaking on the panel. Have you guys seen Owen speak? ,X doesn't/isnt VERB that,it's too easy to buy guns,L
+Political,CC,gun_laws,Owen is one of the men speaking on the panel. Have you guys seen Owen speak? ,X doesn't/isnt VERB that,it's too difficult to buy guns,R
+Political,CC,Trump_pandemic,Danny has been at most of the meeetings lately. Are you guys familiar with Danny?,X doesn't/isnt VERB that,Trump handled the pandemic badly,L
+Political,CC,Trump_pandemic,Danny has been at most of the meeetings lately. Are you guys familiar with Danny?,X doesn't/isnt VERB that,Trump handled the pandemic well,R
+Political,CC,military,Emma and I were talking yesterday.  Are you guys friends with Emma?,X doesn't/isnt VERB that,the military is overfunded,L
+Political,CC,military,Emma and I were talking yesterday.  Are you guys friends with Emma?,X doesn't/isnt VERB that,the military is underfunded,R
+Political,CC,immigrants,I met Ben last week after the meeting. Have you guys talked to Ben before?,X doesn't/isnt VERB that,immigrants support the economy,L
+Political,CC,immigrants,I met Ben last week after the meeting. Have you guys talked to Ben before?,X doesn't/isnt VERB that,immigrants steal jobs from Americans,R
+Political,CC,capitol_uprising,I saw that Glenn posted on the social media page last evening. What do you guys know about Glenn? ,X doesn't/isnt VERB that,the uprising at the Capitol was domestic terrorism,L
+Political,CC,capitol_uprising,I saw that Glenn posted on the social media page last evening. What do you guys know about Glenn? ,X doesn't/isnt VERB that,the uprising at the Capitol was patriotic,R
+Political,CC,masks,Wendy will present tomorrow morning. Have you guys heard Wendy speak before?,X doesn't/isnt VERB that,mask mandates are necessary,L
+Political,CC,masks,Wendy will present tomorrow morning. Have you guys heard Wendy speak before?,X doesn't/isnt VERB that,mask mandates are unnecessary,R
+Political,CC,Trump_economy,I was talking to Tony at the end of the meeting. Have you guys ever spoken to Tony?,X doesn't/isnt VERB that,Trump's policies damaged the American economy,L
+Political,CC,Trump_economy,I was talking to Tony at the end of the meeting. Have you guys ever spoken to Tony?,X doesn't/isnt VERB that,Trump's policies improved the American economy,R
+Neutral,CC,late,I was talking to Amelia when I saw her Friday evening. Do you guys know Amelia?,X doesn't/isnt VERB that,the event started late,N
+Neutral,CC,fundraiser,I was chatting with Liam online last night. Have you guys seen Liam today?,X doesn't/isnt VERB that,the fundraiser was postponed,N
+Neutral,CC,participants,I met Chloe before the meeting started Friday. Have you guys met Chloe? ,X doesn't/isnt VERB that,there are fewer participants this week,N
+Neutral,CC,next_event,I noticed Noah is online for tonight's meeting.  What do you guys think of Noah?,X doesn't/isnt VERB that,the next event was rescheduled,N
+Neutral,CC,registration,Leah told me she's coming ten minutes late tonight. Have you guys chatted with Leah before?,X doesn't/isnt VERB that,the registration due date is next week,N
+Neutral,CC,minutes,Ethan is one of the men presenting today. Have you guys seen Ethan present? ,X doesn't/isnt VERB that,the previous meeting minutes were sent,N
+Neutral,CC,break,I was talking to Amelia when I saw her Friday evening. Do you guys know Amelia?,X doesn't/isnt VERB that,the break will be shortened today,N
+Neutral,CC,newsletter,I was chatting with Liam online last night. Have you guys seen Liam today?,X doesn't/isnt VERB that,last month's newsletter was sent late,N
+Neutral,CC,social_media,I met Chloe before the meeting started Friday. Have you guys met Chloe? ,X doesn't/isnt VERB that,the event was advertised on social media,N
+Neutral,CC,contact,I noticed Noah is online for tonight's meeting.  What do you guys think of Noah?,X doesn't/isnt VERB that,the organizer's contact info is outdated,N
+Neutral,CC,organized,Leah told me she's coming ten minutes late tonight. Have you guys chatted with Leah before?,X doesn't/isnt VERB that,these events are well-organized,N
+Neutral,CC,agenda,Ethan is one of the men presenting today. Have you guys seen Ethan present? ,X doesn't/isnt VERB that,the agenda is longer than usual today,N
+Neutral,MC,website,I was just looking into the webpage issues,,the event website is working now,N
+Neutral,MC,8pm,I'm working on planning next week's events.,,the next meeting will start at 8pm,N
+Political,MC,taxes,I've been thinking about taxes lately.,,The rich are taxed too little,L
+Political,MC,taxes,I've been thinking about taxes lately.,,The rich are taxed too much,R
+Political,MC,lockdown,I've been thinking about the lockdown lately.,,Closing businesses during COVID was necessary,L
+Political,MC,lockdown,I've been thinking about the lockdown lately.,,Closing businesses during COVID was unnecessary,R
+Political,T/F,welfare,I was talking with someone about welfare last evening,It's true that,there are too many restrictions on welfare benefits,L
+Political,T/F,welfare,I was talking with someone about welfare last evening,It's false that,there are too many restrictions on welfare benefits,L
+Political,T/F,welfare,I was talking with someone about welfare last evening,It's true that,there are too few restrictions on welfare benefits,R
+Political,T/F,welfare,I was talking with someone about welfare last evening,It's false that,there are too few restrictions on welfare benefits,R
+Political,T/F,environment,I was chatting with a friend about environmental issues last week.,It's true that,There are too few environmental laws,L
+Political,T/F,environment,I was chatting with a friend about environmental issues last week.,It's false that,There are too few environmental laws,L
+Political,T/F,environment,I was chatting with a friend about environmental issues last week.,It's true that,There are too many environmental laws,R
+Political,T/F,environment,I was chatting with a friend about environmental issues last week.,It's false that,There are too many environmental laws,R
