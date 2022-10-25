@@ -53,6 +53,7 @@ range(unique(d$trial))# trial numbers from 1 to 22
 length(which(is.na(ds$language))) #no missing responses
 table(ds$language) #everyone has English as first language
 
+#this wont do anything since everyone has English as first lang, but just for the future:
 d <- d %>%
   filter(language != "Chinese" & language != "Russian" & language != "telugu") %>%  droplevels()
 length(unique(d$workerid)) # (data from 0 Turker excluded, 42 remaining Turkers)
@@ -185,3 +186,4 @@ for(exp in exps){
 }
 
 write.csv(d, file="../data/data_preprocessed.csv",row.names=F,quote=T)
+

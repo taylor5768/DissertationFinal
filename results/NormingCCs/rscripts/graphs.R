@@ -79,16 +79,16 @@ customQuantiles<- function(responses){
 agrID.byTopic = agrID %>%
   pivot_wider(names_from = c(socialCondition,orientation), values_from = c(response,CILow,CIHigh,YMin,YMax)) %>%
   mutate(conservative_meanR_minus_meanD = response_R_conservative-response_D_conservative)
+agrID.byTopic
+#agrID.byTopic.conservative = subset(agrID.byTopic,orientation=="conservative")
+#agrID.byTopic.liberal = subset(agrID.byTopic,orientation=="liberal")
 
-agrID.byTopic.conservative = subset(agrID.byTopic,orientation=="conservative")
-agrID.byTopic.liberal = subset(agrID.byTopic,orientation=="liberal")
-
-mean(agrID.byTopic.conservative$meanR_minus_meanD)  #0.4551162
-median(agrID.byTopic.liberal$meanR_minus_meanD)  #-0.5598333
+#mean(agrID.byTopic.conservative$meanR_minus_meanD)  #0.4551162
+#median(agrID.byTopic.liberal$meanR_minus_meanD)  #-0.5598333
 
 
-mean(agrID.byTopic.non_southern$meanR_minus_meanD)  #-0.3736875
-median(agrID.byTopic.non_southern$meanR_minus_meanD)  #-0.3566667
+#mean(agrID.byTopic.non_southern$meanR_minus_meanD)  #-0.3736875
+#median(agrID.byTopic.non_southern$meanR_minus_meanD)  #-0.3566667
 
 
 #look at participant politics
